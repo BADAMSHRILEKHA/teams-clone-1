@@ -1,0 +1,18 @@
+body {
+  background:
+  /*linear-gradient(
+    rgb(255, 254, 254), 
+    rgb(255, 255, 255)
+  ),*/
+
+  
+  url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATQAAACkCAMAAAAuTiJaAAAAIVBMVEWo5s//i5Tc7cH/07b/qqW96cra7sL617j/zbP/p6T/l5oMpBJ4AAABBUlEQVR4nO3QSQHAIBAEsOUoLfgXjIh5NpGQqsTTA+sdgW/PwGmJ6EyaNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2aNGnSpEmTJk2atH+nXQh8nej47+P8AAAAAElFTkSuQmCC);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
